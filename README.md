@@ -99,7 +99,7 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 Now submit the pull request.
 
-<img style="float: right;" width=550 src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" width=600 src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
