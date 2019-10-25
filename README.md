@@ -39,7 +39,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository to your system" />
 
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -50,7 +50,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: right;"  width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
