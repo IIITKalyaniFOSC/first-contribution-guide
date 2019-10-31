@@ -1,4 +1,3 @@
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Details
 
@@ -89,9 +88,6 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
-
-<img style="float: right;" src="assets/create-pull-request.png" alt="create a pull request" />
-
 Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
