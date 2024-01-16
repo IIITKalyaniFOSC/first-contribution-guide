@@ -1,4 +1,6 @@
 
+I did all of this.
+
 ## Details
 
 Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
